@@ -1,0 +1,6 @@
+2015-12-31 11:27:28,008 INFO  crawl.CrawlDbReader - CrawlDb dump: starting
+2015-12-31 11:27:28,009 INFO  crawl.CrawlDbReader - CrawlDb db: TestCrawl/linkdb
+2015-12-31 11:27:28,273 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-12-31 11:27:28,278 WARN  mapred.JobClient - Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2015-12-31 11:27:28,285 WARN  mapred.JobClient - No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+2015-12-31 11:27:28,294 ERROR security.UserGroupInformation - PriviledgedActionException as:Administrator cause:org.apache.hadoop.mapred.InvalidInputException: Input path does not exist: file:/F:/release-1.7/TestCrawl/linkdb/current
